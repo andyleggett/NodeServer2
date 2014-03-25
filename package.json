@@ -1,0 +1,17 @@
+{
+  "name": "TCP_Server_Fake",
+  "version": "0.0.1",
+  "description": "Fake TCP server for use with relay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
