@@ -1,7 +1,6 @@
 var net = require("net"),
 port = Number(process.env.PORT || 6100);
 
-
 var relay = net.createServer(function (socket) {
 
 	console.log("render socket connected");
